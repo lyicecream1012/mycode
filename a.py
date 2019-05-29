@@ -26,6 +26,6 @@ class pickList(object):
 if __name__ == '__main__':
     list = [0,0,1,2,3,0,4,0,0,5,0,0,0,0,6,7,8,9,0,0]
     #print "list.__len__:", len(list)
-
+    print "Modified a line."
     picklist = pickList()
     print picklist.picklist(list)
