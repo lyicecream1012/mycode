@@ -29,3 +29,4 @@ if __name__ == '__main__':
 
     picklist = pickList()
     print picklist.picklist(list)
+    print "I just modifed file a."
