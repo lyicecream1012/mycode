@@ -32,6 +32,3 @@ if __name__ == '__main__':
     print "I just modifed file a."
     print "I just modifed file a once more."
 
-
-
-    aaaaaaaaaaaa chenle
