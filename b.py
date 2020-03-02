@@ -23,4 +23,3 @@ if __name__ == "__main__":
     print 'n=',n
     print_yanghui(n)
 
-    chenlei
